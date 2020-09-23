@@ -2,7 +2,9 @@ terminal1:<br/>
 #git clone https://github.com/vidstrancar/lweenc<br/>
 #cd lweenc<br/>
 #mkdir client1<br/>
+#cp * client1<br/>
 #mkdir client2<br/>
+#cp * client2<br/>
 #python3 server.py<br/>
 <br/>
 <br/>
